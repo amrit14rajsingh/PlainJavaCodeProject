@@ -6,7 +6,7 @@ public class Febonacci {
 	  for(int i=0;i<10;i++) {
 		  System.out.println(f);
 		  f = f+g;
-		  g = f-g;
+		  g = f-g; 
 	  }
   }
 }
